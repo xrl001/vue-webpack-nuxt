@@ -16,6 +16,10 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
 
+  //部署到GitHub pages
+  // router: {
+  //   base: '/<repository-name>/'
+  // }
   /*
    ** Customize the progress-bar color
    */
