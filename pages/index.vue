@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        vue-webpack-nuxt
+        vue-webpack-nuxt2
       </h1>
       <h2 class="subtitle">
         My groovy Nuxt.js project
