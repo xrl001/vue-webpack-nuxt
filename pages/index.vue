@@ -3,19 +3,13 @@
     <div>
       <logo />
       <h1 class="title">
-        vue-webpack-nuxt2
+        vue-webpack-nuxt2567990
       </h1>
       <h2 class="subtitle">
         My groovy Nuxt.js project~~~~~~~~~~~~~  
       </h2>
       <div class="links">
         使用surge部署！
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-          >GitHub</a
-        >
       </div>
     </div>
   </section>
