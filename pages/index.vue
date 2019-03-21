@@ -3,14 +3,12 @@
     <div>
       <logo />
       <h1 class="title">
-        vue-webpack-nuxt2567990
+        index.vue
       </h1>
       <h2 class="subtitle">
-        My groovy Nuxt.js project~~~~~~~~~~~~~  
+        Next.js通过surge.sh做静态化部署
       </h2>
-      <div class="links">
-        使用surge部署！
-      </div>
+      <router-link tag="a" :to='{name:"list"}'>查看列表</router-link>
     </div>
   </section>
 </template>
