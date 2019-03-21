@@ -1,4 +1,4 @@
-# vue-webpack-nuxt
+# vue-webpack-nuxt1345
 
 > My groovy Nuxt.js project
 
