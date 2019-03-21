@@ -1,6 +1,6 @@
-# vue-webpack-nuxt1345
+# vue-webpack-nuxt
 
-> My groovy Nuxt.js project
+> My groovy Nuxt.js project！！！！！！！！
 
 ## Build Setup
 
